@@ -1,0 +1,13 @@
+playerNotFound: '&cError! &6%target%&c Not found!'
+noPermission: '&cYou do not have permission to execute this command!'
+Timeout:
+  world_name: 'bendarenas'
+  world_two_name: 'camarena'
+  world_three_name: 'duelarenas'
+  correct_usage: '&cIncorrect usage! the correct usage is &b/timeout <target> <time> <reason>&c!'
+  notification: '&c%player%&6 Has been timed out &c%target%&6 for &c%time%&6!'
+  notification_cancel: '&c&lNotice! &cYou have been un-blacklisted from the &6Arena!'
+  blacklisted: '&c&lNotice! &cYou have been blacklisted from the &6Arena&c for &6%time%&c!'
+  unblacklisted: '&c%player%&6 Has un-timed out &c%target%&6!'
+  attempt_teleport: '&c&lNotice! &cYou are blacklisted from the &6Arena&c and may not be there! Your blacklist has &6%time%&cleft!'
+  playerNotBlacklisted: '&cError! &6%target%&c Is not blacklisted!'

@@ -1,0 +1,8 @@
+name: ArenaTimeout
+main: me.border.arenatimeout.Main
+version: 1.0
+author: MrBorder
+commands:
+  timeout:
+    description: Timeout a player from the arena
+    aliases: [to]
